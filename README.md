@@ -85,5 +85,6 @@ The analysis focuses on the following primary KPIs:
 - **SQL**: For querying and analyzing the dataset.
 - **Excel**: For additional calculations and tabular data representation.
 
+ Snapshots....
  
- 
+![Power BI](https://github.com/user-attachments/assets/525de78a-d0e1-4c69-b8ad-32f96f744673)
